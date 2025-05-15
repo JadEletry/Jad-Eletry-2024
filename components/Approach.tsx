@@ -17,7 +17,7 @@ const Approach = () => {
                     description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
                 >
                     <CanvasRevealEffect
-                        animationSpeed={5.1}
+                        animationSpeed={3.5}
                         containerClassName="bg-emerald-900"
                     />
                 </Card>
@@ -26,7 +26,7 @@ const Approach = () => {
                     description="Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way."
                 >
                     <CanvasRevealEffect
-                        animationSpeed={3}
+                        animationSpeed={3.5}
                         containerClassName="bg-black"
                         colors={[
                             [236, 72, 153],
@@ -39,7 +39,7 @@ const Approach = () => {
                     description="This is where the magic happens! Based on the approved design, I'll translate everything into functional code, building your website from the ground up."
                 >
                     <CanvasRevealEffect
-                        animationSpeed={3}
+                        animationSpeed={3.5}
                         containerClassName="bg-sky-600"
                         colors={[[125, 211, 252]]}
                     />
